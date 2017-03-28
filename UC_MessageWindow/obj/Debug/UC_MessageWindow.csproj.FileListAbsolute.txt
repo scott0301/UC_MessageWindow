@@ -25,3 +25,4 @@ D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Deb
 D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.csproj.GenerateResource.Cache
 D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.dll
 D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.pdb
+D:\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.csprojResolveAssemblyReference.cache

@@ -39,5 +39,7 @@ namespace UC_MessageWindow
             RICH_MESSAGE_WINDOW.Size = new Size(w, h);
         }
 
+
+
     }
 }

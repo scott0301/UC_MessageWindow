@@ -34,11 +34,12 @@
             // RICH_MESSAGE_WINDOW
             // 
             this.RICH_MESSAGE_WINDOW.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(44)))), ((int)(((byte)(44)))));
+            this.RICH_MESSAGE_WINDOW.Dock = System.Windows.Forms.DockStyle.Fill;
             this.RICH_MESSAGE_WINDOW.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold);
             this.RICH_MESSAGE_WINDOW.ForeColor = System.Drawing.Color.Lime;
-            this.RICH_MESSAGE_WINDOW.Location = new System.Drawing.Point(3, 3);
+            this.RICH_MESSAGE_WINDOW.Location = new System.Drawing.Point(0, 0);
             this.RICH_MESSAGE_WINDOW.Name = "RICH_MESSAGE_WINDOW";
-            this.RICH_MESSAGE_WINDOW.Size = new System.Drawing.Size(535, 237);
+            this.RICH_MESSAGE_WINDOW.Size = new System.Drawing.Size(500, 250);
             this.RICH_MESSAGE_WINDOW.TabIndex = 0;
             this.RICH_MESSAGE_WINDOW.Text = "";
             // 
@@ -49,7 +50,7 @@
             this.Controls.Add(this.RICH_MESSAGE_WINDOW);
             this.Font = new System.Drawing.Font("Verdana", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Strikeout))));
             this.Name = "UC_BACKPANEL";
-            this.Size = new System.Drawing.Size(543, 245);
+            this.Size = new System.Drawing.Size(500, 250);
             this.ResumeLayout(false);
 
         }
