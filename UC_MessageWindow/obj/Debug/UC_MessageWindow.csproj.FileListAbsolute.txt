@@ -1,0 +1,27 @@
+c:\users\khkang\documents\visual studio 2012\Projects\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.UserControl1.resources
+c:\users\khkang\documents\visual studio 2012\Projects\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.csproj.GenerateResource.Cache
+c:\users\khkang\documents\visual studio 2012\Projects\UC_MessageWindow\UC_MessageWindow\bin\Debug\UC_MessageWindow.dll
+c:\users\khkang\documents\visual studio 2012\Projects\UC_MessageWindow\UC_MessageWindow\bin\Debug\UC_MessageWindow.pdb
+c:\users\khkang\documents\visual studio 2012\Projects\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.dll
+c:\users\khkang\documents\visual studio 2012\Projects\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.pdb
+C:\Users\khkang\Desktop\Develope\UC_MessageWindow\UC_MessageWindow\bin\Debug\UC_MessageWindow.dll
+C:\Users\khkang\Desktop\Develope\UC_MessageWindow\UC_MessageWindow\bin\Debug\UC_MessageWindow.pdb
+C:\Users\khkang\Desktop\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.csproj.GenerateResource.Cache
+C:\Users\khkang\Desktop\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.dll
+C:\Users\khkang\Desktop\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.pdb
+C:\Users\khkang\Desktop\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.UC_BACKPANEL.resources
+D:\Develope\UC_MessageWindow\UC_MessageWindow\bin\Debug\UC_MessageWindow.dll
+D:\Develope\UC_MessageWindow\UC_MessageWindow\bin\Debug\UC_MessageWindow.pdb
+D:\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.UC_BACKPANEL.resources
+D:\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.csproj.GenerateResource.Cache
+D:\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.dll
+D:\Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.pdb
+D:\Develope\Library\UC_MessageWindow.dll
+D:\Develope\Library\UC_MessageWindow.pdb
+D:\02.강기현 관련\170117_Develope\Library\UC_MessageWindow.dll
+D:\02.강기현 관련\170117_Develope\Library\UC_MessageWindow.pdb
+D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.csprojResolveAssemblyReference.cache
+D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.UC_BACKPANEL.resources
+D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.csproj.GenerateResource.Cache
+D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.dll
+D:\02.강기현 관련\170117_Develope\UC_MessageWindow\UC_MessageWindow\obj\Debug\UC_MessageWindow.pdb
